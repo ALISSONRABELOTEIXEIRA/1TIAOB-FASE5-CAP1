@@ -2,6 +2,9 @@
 # ENTREGA 1:
 
 
+## Link do video:
+https://youtu.be/3vcoaDGCWEI
+
 # Projeto — Previsão de rendimento de safras
 
 Este projeto analisa o arquivo `crop_yield.csv` e apresenta uma solução completa em Jupyter Notebook para exploração dos dados, clusterização, detecção de cenários discrepantes e modelagem preditiva de `Yield`.
@@ -60,15 +63,15 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 ++++++++++++++++++++++++
 # ENTREGA 2:
 
+## Link do video:
+https://youtu.be/3vcoaDGCWEI
+
 ## Qual a solução mais barata com as seguintes configurações para São Paulo e Virginia na AWS?
 
 - 2 CPUs
 - 1 GIB de memória
 - Até 5 Gigabit de rede
 = 50 GB de armazenamento (HD)
-
-## Link do video:
-https://youtu.be/3vcoaDGCWEI
 
 ## Imagens da cotação São Paulo
 
