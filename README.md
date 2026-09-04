@@ -1,6 +1,6 @@
 ++++++++++++++++++++++++
-# ENTREGA 1
-++++++++++++++++++++++++
+# ENTREGA 1:
+
 
 # Projeto — Previsão de rendimento de safras
 
@@ -58,8 +58,8 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 
 
 ++++++++++++++++++++++++
-# ENTREGA 2
-++++++++++++++++++++++++
+# ENTREGA 2:
+
 
 
 
