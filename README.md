@@ -50,3 +50,8 @@ Os mesmos 39 cenários climáticos aparecem para as quatro culturas. Por isso, o
 ## Resultado geral
 
 Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de teste final, com desempenho superior ao baseline baseado apenas na média de rendimento por cultura. Os resultados devem ser interpretados considerando o tamanho reduzido da amostra e a ausência de variáveis como tempo, localização, solo e manejo.
+
+
+======================================================================================================================
+
+# Custo AWS
