@@ -65,8 +65,6 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 
 ## Imagens da cotação
 
-## Imagens da cotação
-
 ![Máquina - São Paulo](imagens/maquina-sao-paulo.png)
 
 ![Armazenamento - São Paulo](imagens/armazenamento-sao-paulo.png)
