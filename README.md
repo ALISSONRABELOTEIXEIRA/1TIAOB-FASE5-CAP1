@@ -54,7 +54,7 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 
 
 ++++++++++++++++++++++++
-=====================================
+
 ++++++++++++++++++++++++
 
 
