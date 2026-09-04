@@ -63,13 +63,18 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 - Até 5 Gigabit de rede
 = 50 GB de armazenamento (HD)
 
-## Imagens da cotação
+## Imagens da cotação São Paulo
 
 ![Máquina - São Paulo](imagens/maquina-sao-paulo.png)
 
 ![Armazenamento - São Paulo](imagens/armazenamento-sao-paulo.png)
 
 ![Resumo - São Paulo](imagens/resumo-sao-paulo.png)
+
+
+## Imagens da cotação Virginia
+
+
 
 
 
