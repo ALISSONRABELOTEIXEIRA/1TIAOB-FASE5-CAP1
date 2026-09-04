@@ -86,11 +86,11 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 
 ## Imagens da cotação Virginia
 
-![Máquina - Virgínia](imagens/Maquina-virginia.png)
+![Máquina - Virgínia](imagens/maquina-virginia.png)
 
-![Armazenamento - Virgínia](imagens/Armazenamento-virginia.png)
+![Armazenamento - Virgínia](imagens/armazenamento-virginia.png)
 
-![Resumo - Virgínia](imagens/Resumo-virginia.png)
+![Resumo - Virgínia](imagens/resumo-virginia.png)
 
 
 # Conclusão do mais barato e possiveis restrições
