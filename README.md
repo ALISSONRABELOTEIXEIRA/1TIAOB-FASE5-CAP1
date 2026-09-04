@@ -1,3 +1,7 @@
+++++++++++++++++++++++++
+# ENTREGA 1
+++++++++++++++++++++++++
+
 # Projeto — Previsão de rendimento de safras
 
 Este projeto analisa o arquivo `crop_yield.csv` e apresenta uma solução completa em Jupyter Notebook para exploração dos dados, clusterização, detecção de cenários discrepantes e modelagem preditiva de `Yield`.
@@ -54,7 +58,7 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 
 
 ++++++++++++++++++++++++
-
+# ENTREGA 2
 ++++++++++++++++++++++++
 
 
