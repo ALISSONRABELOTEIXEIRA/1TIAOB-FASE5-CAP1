@@ -57,3 +57,10 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 # Custo AWS
 
 ## Qual a solução mais barata com as seguintes configurações para São Paulo e Virgnia?
+
+2 CPUs.
+1 GIB de memória.
+Até 5 Gigabit de rede.
+50 GB de armazenamento (HD).
+
+
