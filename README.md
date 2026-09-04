@@ -64,12 +64,8 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 # ENTREGA 2:
 
 ## Link do video:
-<a href="https://youtu.be/3vcoaDGCWEI">
-  <img src="https://img.youtube.com/vi/3vcoaDGCWEI/maxresdefault.jpg" width="49%">
-</a>
-<a href="https://youtu.be/57KVTZp6sKY">
-  <img src="https://img.youtube.com/vi/57KVTZp6sKY/maxresdefault.jpg" width="49%">
-</a>
+https://youtu.be/3vcoaDGCWEI
+
 
 ## Qual a solução mais barata com as seguintes configurações para São Paulo e Virginia na AWS?
 
