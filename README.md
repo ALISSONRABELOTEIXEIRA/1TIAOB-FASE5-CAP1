@@ -73,9 +73,6 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 
 ![Resumo - São Paulo](Imagens/Resumo%20-%20São%20Paulo.png)
 
-imagens/Armazenamento - São Paulo.png
-
-imagens/Resumo - São Paulo.png
 
 
 
