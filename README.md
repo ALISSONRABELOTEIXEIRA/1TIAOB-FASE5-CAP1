@@ -81,5 +81,8 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 ![Resumo - Virgínia](imagens/Resumo-virginia.png)
 
 
+# Conclusão
+
+considerando a mesma configuração de EC2 e 50 GB de armazenamento EBS, a região Norte da Virgínia apresenta o menor custo. O valor mensal estimado é de US$ 8,38, enquanto em São Paulo é de US$ 14,08. Portanto, se o principal critério for custo, Norte da Virgínia é a opção mais econômica. Porém, caso existam exigências de baixa latência no Brasil ou restrições legais para manter os dados no país, a região de São Paulo pode ser mais adequada mesmo com custo maior.
 
 
