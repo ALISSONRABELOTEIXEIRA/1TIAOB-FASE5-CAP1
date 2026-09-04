@@ -60,15 +60,7 @@ Na execução entregue, Gradient Boosting apresentou o menor MAE no conjunto de 
 ++++++++++++++++++++++++
 # ENTREGA 2:
 
-
-
-
-
-
-
-# Custo AWS
-
-## Qual a solução mais barata com as seguintes configurações para São Paulo e Virginia?
+## Qual a solução mais barata com as seguintes configurações para São Paulo e Virginia ma AWS?
 
 - 2 CPUs
 - 1 GIB de memória
