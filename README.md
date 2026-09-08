@@ -3,7 +3,7 @@
 
 
 ## Link do video:
-[https://youtu.be/3vcoaDGCWEI](https://youtu.be/iaj6cAgrY38)
+https://youtu.be/iaj6cAgrY38
 
 # Projeto — Previsão de rendimento de safras
 
